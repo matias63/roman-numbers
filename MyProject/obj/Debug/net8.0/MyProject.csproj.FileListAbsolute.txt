@@ -1,0 +1,5 @@
+C:\Users\enter\Desktop\roman numbers\roman-numbers\MyProject\obj\Debug\net8.0\MyProject.csproj.AssemblyReference.cache
+C:\Users\enter\Desktop\roman numbers\roman-numbers\MyProject\obj\Debug\net8.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enter\Desktop\roman numbers\roman-numbers\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\enter\Desktop\roman numbers\roman-numbers\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfo.cs
+C:\Users\enter\Desktop\roman numbers\roman-numbers\MyProject\obj\Debug\net8.0\MyProject.csproj.CoreCompileInputs.cache
